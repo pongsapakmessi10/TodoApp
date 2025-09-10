@@ -1,0 +1,11 @@
+
+
+.text{
+    display: block;
+    cursor: pointer;
+}
+
+.text-done{
+    text-decoration: line-through;
+    cursor: pointer;
+}
